@@ -1,1 +1,4 @@
-# Dhawal-Zingare-2026SOC0079-C-ASSIGNMENT
+NAME: Dhawal Vijay Zingare
+Roll no.: 49
+Division : SOC 7
+Branch: CSE CORE 
